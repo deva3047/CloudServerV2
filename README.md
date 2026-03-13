@@ -100,7 +100,7 @@
 ### 📊 Analytics Dashboard
 
 <div align="center">
-<img src="Screenshort/Screenshot 2026-03-13 183900.png" width="700"/>
+<img src="DashBord.png" width="700"/>
 <br/>
 <sub>Real-time dashboard — uptime, total events, system info & last 10 activity logs</sub>
 </div>
