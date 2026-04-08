@@ -115,7 +115,7 @@
 |---|---|
 | 🐧 **Linux** | `sudo` access · Apache2 (auto-installable via Option 01) |
 | 🪟 **Windows** | XAMPP or WAMP installed at `C:\xampp` or `D:\xampp` |
-| 📱 **Termux** | `pkg install apache2` |
+| 📱 **Termux** | `pkg install apache2 termux-tools` |
 | ☁️ **Secure Link** | `cloudflared` installed (optional — for Option 09 only) |
 
 ---
